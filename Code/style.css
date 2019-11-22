@@ -1,0 +1,150 @@
+body {
+font-family: 'PT Serif', serif;
+font-size: 40px;
+text-align: center;
+color:black;
+background-image: url(images/pink.jpg);
+background-size: cover
+}
+
+h1 {
+	margin: 20px auto 10px auto;
+	color:black;
+}
+
+h2{
+font-size: 30px;
+color: black;
+}
+
+img {
+	margin: 0 20px;
+}
+
+.container {
+	width: 45%;
+	margin: 0 auto;
+	display: flex;
+	align-content: center; flex-wrap: wrap;
+}
+
+
+.zelda{
+	
+	/*display: block;
+	writing-mode: vertical-rl;
+	text-orientation: sideways;*/
+	font-size: 20px;
+	 margin: 10px auto 10px auto
+}
+.yorkie{
+	/*display: block;
+	writing-mode: vertical-rl;
+	text-orientation: sideways;*/
+	font-size: 20px;
+	 margin: 10px auto 10px auto
+}
+
+.h2 {
+	font-family: 'Dancing Script', cursive;;
+	font-size: 10px;
+	text-align: center;
+	color:#ec6498;
+	margin-bottom: 25px;
+}
+.bali {
+/*display: block;
+writing-mode: vertical-lr;
+text-orientation: sideways;*/
+font-size: 20px;
+ margin: 10px auto 10px auto
+
+}
+.wine {
+/*display: block;
+writing-mode: vertical-lr;
+text-orientation: sideways;
+*/font-size: 20px;
+ margin: 10px auto 10px auto
+
+}
+
+ .party {
+
+/*display: block;
+writing-mode: vertical-lr;
+text-orientation: sideways;*/
+font-size: 20px;
+ margin: 10px auto 10px auto
+ }
+
+ .travel {
+/*display: block;
+writing-mode: vertical-rl;
+text-orientation: sideways;*/
+font-size: 20px;
+ margin: 10px auto 10px auto
+ }
+ 
+ .insta{
+text-align: center;
+
+}
+
+.fb{
+text-align: center;
+}
+
+.linkedin{
+text-align: center;
+}
+
+.contact{
+font-family: 'Dancing Script', cursive;;
+	font-size: 20px;
+	text-align: center;
+	color:#ec6498;
+	margin-bottom: 25px;
+}
+
+#pink {
+background-image:url(images/bali1.jpg);
+height: 300px;
+width: 100%;
+background-size: cover;
+background-position: center;
+ margin: 10px auto 10px auto
+}
+
+.Travel{
+font-family: 'Dancing Script', cursive;;
+	font-size: 10px;
+	text-align: center;
+	color:#ec6498;
+	margin-bottom: 25px;
+}
+
+#pink:hover{
+background-image:url(images/bali2.jpg);
+transition: 0.3s;
+background-size: cover;
+background-position: center;
+}
+
+#malaisie{
+background-image: url(images/malaisie1.jpg);
+height: 300px;
+width: 100%;
+background-size: cover;
+background-position: center;
+ margin: 10px auto 10px auto
+}
+
+#malaisie:hover{
+background-image: url(images/malaisie2.jpg);
+transition: 0.3s;
+background-size: cover;
+background-position: center;
+}
+}
+
